@@ -53,6 +53,7 @@ vim-yankstack https://github.com/maxbrunsfeld/vim-yankstack
 lightline.vim https://github.com/itchyny/lightline.vim
 tpope-vim-abolish https://github.com/tpope/tpope-vim-abolish
 mru.vim https://github.com/vim-scripts/mru.vim
+jedi-vim https://github.com/davidhalter/jedi-vim
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
